@@ -48,8 +48,7 @@ I specialize in building low-level software, device drivers, and robotics system
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xfahad100&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xfahad100&show_icons=true&theme=tokyonight)
 ---
 
 ## 📈 Activity Graph
