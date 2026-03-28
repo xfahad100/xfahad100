@@ -48,13 +48,13 @@ I specialize in building low-level software, device drivers, and robotics system
 
 ## 📊 GitHub Stats
 
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadxix\&show_icons=true\&theme=default)
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfahad100\&show_icons=true\&theme=default)
 
 ---
 
 ## 📈 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fahadxix)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xfahad100)
 
 ---
 
