@@ -49,14 +49,15 @@ I specialize in building low-level software, device drivers, and robotics system
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xfahad100&show_icons=true&theme=tokyonight)
+
+## 🧠 Top Languages
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xfahad100&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xfahad100)
-
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xfahad100&layout=compact&theme=tokyonight)
 
 ---
 
